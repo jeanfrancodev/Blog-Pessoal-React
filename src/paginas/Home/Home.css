@@ -1,11 +1,13 @@
 .titulo{
-  color: blue;
-  text-align: center;
+  color: white !important;
+  font-weight: bold important;
 
 }
-.img {
-  width: 550px;
-  height: 400px;
-  display: block;
-  margin: 0 auto;
+.caixa{
+  background-color: #3F51B5;
+}
+.botao{
+  border-color: white important;
+  background-color: #3F51B5;
+  color:white important;
 }
